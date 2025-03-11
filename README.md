@@ -22,6 +22,19 @@
 
 https://github.com/user-attachments/assets/2f144d2c-de8e-4175-94ba-a1d4db2f30bf
 
+https://github.com/user-attachments/assets/166006b2-4a42-4662-8945-dc1b0241b833
+
+## 🛠️ Tecnologías Utilizadas  
+
+- ![HTML5](https://skillicons.dev/icons?i=html) **HTML5** - Estructura semántica  
+- ![CSS3](https://skillicons.dev/icons?i=css) **CSS3** - Estilos modernos y animaciones  
+- ![JavaScript](https://skillicons.dev/icons?i=js) **JavaScript** - Interactividad avanzada  
+- ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) **Bootstrap** - Diseño adaptable y rápido  
+-  **ScrollReveal** - Animaciones de scroll  
+
+
+
+
 
 
 
